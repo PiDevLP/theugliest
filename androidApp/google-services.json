@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134208713468",
+    "project_id": "theugliest-6c475",
+    "storage_bucket": "theugliest-6c475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134208713468:android:382d700ab0e50aa7b3dd79",
+        "android_client_info": {
+          "package_name": "com.pidev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134208713468-u2bil0vl027b4i1eel1qbdqcllk6kt17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TgEh9VzEbGS6Ti-QUctjf7h4xovWVxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134208713468-u2bil0vl027b4i1eel1qbdqcllk6kt17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
